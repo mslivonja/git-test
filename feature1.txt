@@ -1,3 +1,5 @@
 Added new feature.
 
 New feature refinement.
+
+Part of feature 4.
