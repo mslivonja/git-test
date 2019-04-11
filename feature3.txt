@@ -1,1 +1,3 @@
 Added 3rd feature.
+
+Feature refinement.
