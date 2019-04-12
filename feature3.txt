@@ -3,3 +3,5 @@ Added 3rd feature.
 Feature refinement.
 
 Second refinement.
+
+Part of Feature 4.
