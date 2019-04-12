@@ -2,6 +2,6 @@ Added 3rd feature.
 
 Feature refinement.
 
-sec. refinement.
+2. refinement.
 
 Part of Feature 4.
