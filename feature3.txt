@@ -5,3 +5,5 @@ Feature refinement.
 2. refinement.
 
 Part of Feature 4.
+
+Fix for feature 03.
