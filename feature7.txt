@@ -1,3 +1,5 @@
 Initial setup for Feature 7.
 
 Main implementation.
+
+Finishing touches.
