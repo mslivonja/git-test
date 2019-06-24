@@ -7,3 +7,5 @@ Part of feature 4.
 Added as part of conflict 1 feature.
 
 Fix for Feature 1.
+
+Feature 7.
