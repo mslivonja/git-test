@@ -1,3 +1,5 @@
 Initial setup for Feature 8.
 
 Main implementation.
+
+Finishing touches.
