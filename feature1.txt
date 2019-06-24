@@ -6,6 +6,8 @@ Part of feature 4.
 
 Added as part of conflict 1 feature.
 
+Fix for feature(release 1.0.1)
+
 Fix for Feature 1.
 
 Feature 7.
